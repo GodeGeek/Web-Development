@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to right, rgb(8, 148, 230), rgb(53, 56, 207) );
+}
+.dateAndTime{
+    color: rgb(17, 171, 243); 
+    text-align: center;
+}
